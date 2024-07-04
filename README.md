@@ -4,4 +4,5 @@ Since I can view the printed outputs without running each cell here on github, I
 Each notebook contains my note and practices on a certain topic of ML.  
 
 -----
-## 1. Computer Vision
+### 1. Computer Vision  
+- [Cat dog classifier](https://github.com/hsin-you-wu/Fast.ai_practice_kaggle/blob/main/cat-dog-classifier-computer-vision.ipynb) : Getting familiar with the basics of fast.ai and ML terms
